@@ -1445,7 +1445,7 @@
             API.chatLog('Emoji toggling disabled. Preceeding settings loaded.');
             //socket();
             //loadChat(API.sendChat(subChat(basicBot.chat.online, {botname: basicBot.settings.botName, version: basicBot.version}))); 
-			loadChat(API.sendChat("[arkhamBot] ArkhamNetwork Custom Bot V1.0 now online!"));
+			loadChat(API.sendChat("\/me [arkhamBot] ArkhamNetwork Custom Bot V1.0 now online!"));
         },
         commands: {
             executable: function (minRank, chat) {
