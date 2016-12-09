@@ -138,7 +138,7 @@
     "afkstatusreset": "\/me [arkhamBot] @%%NAME%% » Reset the afk status of @%%USERNAME%%.",
     "inactivefor": "\/me [arkhamBot] @%%NAME%% » %%USERNAME%% has been inactive for %%TIME%%.",
     "inactivelonger": "\/me [arkhamBot] @%%NAME%% » %%USERNAME%% has been inactive longer than %%BOTNAME%%'s been online.",
-    "autowoot": "\/me [arkhamBot] We recommend PlugCubed for autowooting: http:\/\/plugcubed.net\/",
+    "autowoot": "\/me [arkhamBot] To AutoWoot, we suggest RCS!",
     "brandambassador": "\/me [arkhamBot] A Brand Ambassador is the voice of the plug.dj users. They promote events, engage the community and share the plug.dj message around the world. For more info: https:\/\/plug.dj\/ba",
     "bouncerplusrank": "\/me [arkhamBot] @%%NAME%% » You have to be manager or up to enable Bouncer+.",
     "chatcleared": "\/me [arkhamBot] @%%NAME%% » Cleared the chat.",
