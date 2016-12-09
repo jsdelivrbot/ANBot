@@ -203,6 +203,5 @@
     "voteratio": "\/me [arkhamBot] @%%NAME%% » @%%USERNAME%% ~ woots: %%WOOT%%, mehs: %%MEHS%%, ratio (w\/m): %%RATIO%%.",
     "website": "\/me [arkhamBot] @%%NAME%% » Please visit our website: %%LINK%%",
     "youtube": "\/me [arkhamBot] @%%NAME%% » Subscribe to us on YouTube: %%LINK%%",
-    //"songstatistics": "\/me [arkhamBot] %%TITLE%% is finished! Artist: %%ARTIST%% | Stats: %%WOOTS%% Woots, %%GRABS%% Grabs, %%MEHS%% Mehs."
-	"songstatistics": "\/me [Song] The song is over! (%%ARTIST%%: %%TITLE%%) | Song Statistics: %%WOOTS% Woots, %%GRABS%% Grabs, %%MEHS%% Mehs." 
+    "songstatistics": "\/me [arkhamBot] %%TITLE%% is finished! Artist: %%ARTIST%% | Stats: %%WOOTS%% Woots, %%GRABS%% Grabs, %%MEHS%% Mehs."
 }
