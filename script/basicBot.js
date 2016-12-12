@@ -1445,7 +1445,7 @@
             API.chatLog('Emoji toggling disabled. Preceeding settings loaded.');
             //socket();
             //loadChat(API.sendChat(subChat(basicBot.chat.online, {botname: basicBot.settings.botName, version: basicBot.version}))); 
-			loadChat(API.sendChat("\/me [arkhamBot] ArkhamNetwork Custom Bot V1.0 now online!"));
+			loadChat(API.sendChat("\/me »AN» ANBot 1.0 Now loaded!"));
         },
         commands: {
             executable: function (minRank, chat) {
@@ -1705,7 +1705,7 @@
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
                     else {
-                        API.sendChat(basicBot.chat.autowoot);
+                        API.sendChat("\/me »AN» We suggest RCS!");
                     }
                 }
             },
@@ -1741,7 +1741,7 @@
                      }
                 }
             },
-
+/* 
             banCommand: {
                 command: 'ban',
                 rank: 'bouncer',
@@ -1758,11 +1758,11 @@
                         var permFrom = basicBot.userUtilities.getPermission(chat.uid);
                         var permUser = basicBot.userUtilities.getPermission(user.id);
                         if (permUser >= permFrom) return void(0);
-                        API.moderateBanUser(user.id, 1, API.BAN.DAY);
+                        API.sendChat("»AN» This is disabled!"); 
                     }
                 }
             },
-
+*/ 
             blacklistCommand: {
                 command: ['blacklist', 'bl'],
                 rank: 'bouncer',
