@@ -37,13 +37,13 @@
         "Yes - For sure!",
         "It is meant to be.",
         "Error.. Contacting my Terminator boss",
-        "Probably.",
+        //"Probably.",
         "Ask again later.",
         "I'd have to say no man, sorry",
         "Sounds good!",
-        "Don't count on it.",
-        "Yes, in due time.",
-        "My sources say no.",
+        //"Don't count on it.",
+        //"Yes, in due time.",
+        //"My sources say no.",
     ],
     "nodatafound": "No previous data found.",
     "currentlang": "\/me »AN»  [ @%%NAME%% ]  Language currently set to: %%LANGUAGE%%",
@@ -177,7 +177,7 @@
     "roomrules": "\/me »AN»  Please find the room rules here: %%LINK%%",
     "sessionstats": "\/me »AN»  [ @%%NAME%% ]  Total woots: %%WOOTS%%, total mehs: %%MEHS%%, total grabs: %%GRABS%%.",
     "forceskip": "\/me »AN»  [ @%%NAME%% ]  You used forceskip.",
-    "madeby": "\/me »AN»  [ @%%NAME%% ]  This bot was made by %%NAME%%.",
+    "madeby": "\/me »AN»  [ @%%NAME%% ]  This bot is maintained by the Terminator.... Fine, it's SkillsAura. Can't a man dream?!",
     "activefor": "/me I have been active for %%TIME%%.",
     "swapinvalid": "\/me »AN»  [ @%%NAME%% ]  Invalid user specified. (No names with spaces!)",
     "swapwlonly": "\/me »AN»  [ @%%NAME%% ]  Please only swap users that are in the waitlist!",
@@ -192,6 +192,5 @@
     "voteratio": "\/me »AN»  [ @%%NAME%% ]  @%%USERNAME%% ~ woots: %%WOOT%%, mehs: %%MEHS%%, ratio (w\/m): %%RATIO%%.",
     "website": "\/me »AN»  [ @%%NAME%% ]  Please visit our website: ArkhamNetwork.org",
     "youtube": "\/me »AN»  [ @%%NAME%% ]  Subscribe to us on YouTube: Serayne92",
-
-	"songstatistics": "\/me [Song Stats] %%ARTIST%%:%%TITLE%% | Woots: %%WOOTS%% | Grabs: %%GRABS%% | Mehs: %%MEHS%%"
+    "songstatistics": "\/me ♪ %%ARTIST%% - %%TITLE%% ♪ | ♪ Woots: %%WOOTS%% | Grabs: %%GRABS%% | Mehs: %%MEHS%% ♪"
 }
