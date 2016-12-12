@@ -45,7 +45,7 @@
             if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
             if (!bot.commands.executable(this.rank, chat)) return void (0);
             else {
-              API.sendChat("/me http://arkhamnetwork.org/community/data/avatars/l/36/36281.jpg");
+              API.sendChat("/me Sadly, this fox is no longer with us :(");
             }
           }
         };
@@ -58,7 +58,7 @@
             if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
             if (!bot.commands.executable(this.rank, chat)) return void (0);
             else {
-              API.sendChat("/me Blacklisted songs: https://github.com/ArceusMaster0493/arkhamBot/blob/master/doc/blacklist.md");
+              API.sendChat("/me Blacklisted songs");
             }
           }
         };
@@ -153,7 +153,7 @@
       fbLink: null,
       youtubeLink: null,
       website: null,
-      intervalMessages: ["Tip: Use !eta to check your waiting time.", "Tip: All parody songs are blacklisted.", "Tip: Need help? You can alert the staff with @staff <message>.", "Tip: You will be skipped if you play any song that has recently been played.", "Tip: Check out ArkhamNetwork's official Twitter for updates, Plug.DJ & Server! https://twitter.com/arkhamnetwork"],
+      intervalMessages: ["[AutoAlert] Ensure you know our rules!", "[AutoAlert] Need to check your psoition in the queue? Type !eta!", "[AutoAlert] Need help? Tag a staff member by typing @staff <message>", "[AutoAlert] Check out ArkhamNetwork's official TWITTER! https://twitter.com/arkhamnetwork"], 
       messageInterval: 3,
       songstats: true,
       commandLiteral: "!",
