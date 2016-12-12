@@ -161,7 +161,7 @@
     "jointime": "\/me »ArkhamBot»  @%%NAMEFROM%%  %%USERNAME%% has been in the room for %%TIME%%.",
     "kickrank": "\/me »ArkhamBot»  [@%%NAME%%]  You can't kick users with an equal or higher rank than you!",
     "kick": "\/me »ArkhamBot»  [@%%NAME%%]  @%%USERNAME%% you are being kicked from the community for %%TIME%% minutes.",
-    "kill": "\/me »ArkhamBot»  Shutting down.",
+    "kill": "\/me »ArkhamBot»  Hasta la vista, Baby! The bot is dyi-",
     "logout": "\/me »ArkhamBot»  [@%%NAME%%]  Logging out %%BOTNAME%%",
     "rouletteleave": "\/me »ArkhamBot»  [@%%NAME%%]  You have left the roulette!",
     "songlink": "\/me »ArkhamBot»  [@%%NAME%%]  Link to current song: %%LINK%%",
