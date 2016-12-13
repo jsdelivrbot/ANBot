@@ -1705,8 +1705,7 @@
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
                     else {
-                        API.sendChat("\/me »AN» We suggest RCS!");
-						API.sendChat("\/me https://rcs.radiant.dj/");
+                        API.sendChat("\/me »AN» We suggest RCS! https://rcs.radiant.dj/");
                     }
                 }
             },
