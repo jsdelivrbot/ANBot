@@ -1706,6 +1706,7 @@
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
                     else {
                         API.sendChat("\/me »AN» We suggest RCS!");
+						API.sendChat("\/me https://rcs.radiant.dj/");
                     }
                 }
             },
