@@ -280,7 +280,7 @@
             usercommandsEnabled: true,
             thorCommand: false,
             thorCooldown: 10,
-            skipPosition: 3,
+            skipPosition: -1,
             skipReasons: [
                 ["theme", "This song does not fit the room theme. "],
                 ["op", "This song is on the OP list. "],
@@ -2235,7 +2235,7 @@
             },
 
             forceskipCommand: {
-                command: ['forceskip', 'fs'],
+                command: ['forceskip', 'fs', 'skip'],
                 rank: 'bouncer',
                 type: 'exact',
                 functionality: function (chat, cmd) {
@@ -2971,7 +2971,7 @@
                     }
                 }
             },
-
+/*
             skipCommand: {
                 command: ['skip', 'smartskip'],
                 rank: 'bouncer',
@@ -3023,7 +3023,7 @@
                     }
                 }
             },
-
+*/ 
             skipposCommand: {
                 command: 'skippos',
                 rank: 'manager',
