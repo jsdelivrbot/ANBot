@@ -3632,7 +3632,7 @@
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
                     else {
                         if (typeof basicBot.settings.website === "string")		
-							API.sendChat("\/me »AN» oshit, waddup!");	
+							API.sendChat("\/me »AN» OShit, waddup!");
                     }
                 }
             },				
