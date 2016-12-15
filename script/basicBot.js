@@ -3617,8 +3617,9 @@
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
                     else {
                         if (typeof basicBot.settings.website === "string")
-                            API.sendChat("\/me »AN» Harambe, you will always be remembered!!");			
+                            //API.sendChat("\/me »AN» Harambe, you will always be remembered!!");			
                             API.sendChat("\/me http://i.imgur.com/VJySfKf.jpg");
+							API.sendChat("\/me »AN» Harambe, you will always be remembered!!");	
                     }
                 }
             },							
