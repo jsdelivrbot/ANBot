@@ -153,7 +153,7 @@
       fbLink: null,
       youtubeLink: null,
       website: null,
-      intervalMessages: ["[AutoAlert] Ensure you know our rules!", "[AutoAlert] Need to check your psoition in the queue? Type !eta!", "[AutoAlert] Need help? Tag a staff member by typing @staff <message>", "[AutoAlert] Check out ArkhamNetwork's official TWITTER! https://twitter.com/arkhamnetwork"], 
+      intervalMessages: ["»Alert» For more awesome music check out BassBoostOfficial! https://goo.gl/wolxoY", "»Alert»  Ensure you know our rules!", "»Alert»  Need to check your psoition in the queue? Type !eta!", "»Alert»  Need help? Tag a staff member by typing @staff <message>", "»Alert»  Check out ArkhamNetwork's official TWITTER! https://twitter.com/arkhamnetwork"], 
       messageInterval: 3,
       songstats: true,
       commandLiteral: "!",
