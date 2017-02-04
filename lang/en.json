@@ -122,7 +122,7 @@
     "chatfilter": "chatfilter",
     "historyskip": "historyskip",
     "lockdown": "lockdown",
-    "lockguard": "lockguard", 
+    "lockguard": "lockguard",
     "usercommands": "usercommands",
     "motd": "MotD",
     "welcomemsg": "welcome message",
@@ -202,7 +202,7 @@
     "commandscd": "\/me »AN»  @%%NAME%%,  The cooldown for commands by users is now set to %%TIME%% seconds.",
     "voteratio": "\/me »AN»  @%%NAME%%,  @%%USERNAME%% ~ woots: %%WOOT%%, mehs: %%MEHS%%, ratio (w\/m): %%RATIO%%.",
     "website": "\/me »AN»  @%%NAME%%,  Please visit our website: %%LINK%%",
-    "youtube": "\/me »AN»  @%%NAME%%,  Subscribe to us on YouTube: %%LINK%%",
-
+    "youtube": "\/me »AN»  @%%NAME%%,  Subscribe to us on YouTube: %%LINK%%",	
+    "thorWorthy": "\/me @%%NAME%%, you're worthy of the hammer :hammer:, congratulations!",
 	"songstatistics": "\/me »AN» Song \"%%TITLE%%\" by %%ARTIST%% %%WOOTS%%W, %%GRABS%%G, %%MEHS%%M"
 }
