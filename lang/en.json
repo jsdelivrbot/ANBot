@@ -87,7 +87,7 @@
     "warning1": "\/me »AN»  @%%NAME%%,  You've been detected as \"AFK\" for a %%TIME%%! If you do not respond within 2 minutes, you will be removed.",
     "warning2": "\/me »AN»  @%%NAME%%,  You will be removed due to AFK soon if you don't respond.",
     //"afkremove": "\/me »AN»  @%%NAME%%,  You have been removed for being afk for %%TIME%%. You were at position %%POSITION%%. Chat at least once every %%MAXIMUMAFK%% minutes if you want to play a song.",
-	"afkremove": "\/me »AN»  @%%NAME%%,  You were removed for being AFK (%%TIME%%). You were formerly at position %%POSITION%%. If you chat at least once per %%MAXIMUMAFK%% minutes, you will be fine.",
+	//"afkremove": "\/me »AN»  @%%NAME%%,  You were removed for being AFK (%%TIME%%). You were formerly at position %%POSITION%%. If you chat at least once per %%MAXIMUMAFK%% minutes, you will be fine.",
     "caps": "\/me »AN»  @%%NAME%%,  Unglue your capslock button please.",
     "askskip": "\/me »AN»  @%%NAME%%,  Don't ask for skips.",
     "spam": "\/me »AN»  @%%NAME%%,  Stop spamming.",
