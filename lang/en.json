@@ -66,7 +66,7 @@
     "bouncer": "The bot can't move people when it's run as a bouncer.",
     "online": "\/me »AN»  %%BOTNAME%% v%%VERSION%% online!",
     "welcome": "\/me »AN»  @%%NAME%%, Welcome to ArkhamNetwork's official PlugDJ! Need help? Contact a staff member!",
-    "welcomeback": "\/me »AN»  @%%NAME%%,  Welcome back.",
+    "welcomeback": "\/me »AN»  @%%NAME%%,  Welcome back to ArkhamNetwork's Plug.DJ! <3",
     "songknown": "\/me »AN»  @%%NAME%%,  This song is in the DJ history.",
     "notavailable": "\/me »AN»  @%%NAME%%,  The song you played was not available.",
     "timelimit": "\/me »AN»  @%%NAME%%,  Your song is longer than the allowed time! (%%MAXLENGTH%%) ",
@@ -204,5 +204,5 @@
     "website": "\/me »AN»  @%%NAME%%,  Please visit our website: %%LINK%%",
     "youtube": "\/me »AN»  @%%NAME%%,  Subscribe to us on YouTube: %%LINK%%",
 
-	"songstatistics": "\/me [Song Stats] %%ARTIST%%:%%TITLE%% | Woots: %%WOOTS%% | Grabs: %%GRABS%% | Mehs: %%MEHS%%"
+	"songstatistics": "\/me »AN» Song \"%%TITLE%%\" by %%TITLE%%. %%WOOTS%%W, %%GRABS%%G, %%MEHS%%M"
 }
