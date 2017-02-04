@@ -203,10 +203,6 @@
     "voteratio": "\/me »AN»  @%%NAME%%,  @%%USERNAME%% ~ woots: %%WOOT%%, mehs: %%MEHS%%, ratio (w\/m): %%RATIO%%.",
     "website": "\/me »AN»  @%%NAME%%,  Please visit our website: %%LINK%%",
     "youtube": "\/me »AN»  @%%NAME%%,  Subscribe to us on YouTube: %%LINK%%",
-    "thorNotClose": "\/me »AN»  @%%NAME%%,  You're not even CLOSE of being worthy of my the hammer!",
-    "thorcd": "\/me »AN»  @%%NAME%%,  you can try to lift the hammer in %%TIME%% minutes.",
-    "thorWorthy": "\/me »AN»  @%%NAME%%,  you're worthy of the hammer :hammer:, congratulations!",
-    "thorNotWorthy": "\/me »AN»  @%%NAME%%,  you're not worthy of the hammer."
-	
+
 	"songstatistics": "\/me »AN» Song \"%%TITLE%%\" by %%ARTIST%% %%WOOTS%%W, %%GRABS%%G, %%MEHS%%M"
 }
