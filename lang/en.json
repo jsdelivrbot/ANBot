@@ -203,7 +203,7 @@
     "voteratio": "\/me »AN»  @%%NAME%%,  @%%USERNAME%% ~ woots: %%WOOT%%, mehs: %%MEHS%%, ratio (w\/m): %%RATIO%%.",
     "website": "\/me »AN»  @%%NAME%%,  Please visit our website: %%LINK%%",
     "youtube": "\/me »AN»  @%%NAME%%,  Subscribe to us on YouTube: %%LINK%%",	
-    "thorNotClose": "\/me @%%NAME%%, you're not worthy of getting close to the hammer!",	
+    //"thorNotClose": "\/me @%%NAME%%, you're not worthy of getting close to the hammer!",	
     "thorcd": "\/me @%%NAME%% you can try to lift the hammer in %%TIME%% minutes.",	
     "thorWorthy": "\/me @%%NAME%%, you're worthy of the hammer :hammer:, congratulations!",
     "thorNotWorthy": "\/me @%%NAME%% you're not worthy of the hammer."
