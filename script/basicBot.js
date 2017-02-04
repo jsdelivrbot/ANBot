@@ -2277,7 +2277,7 @@
             },
 
             gifCommand: {
-                command: ['dontusethisgoddamncommandyougaylookingdipshitfucktard'],
+                command: ['gif'],
                 rank: 'user',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
