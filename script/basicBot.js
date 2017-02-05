@@ -2354,7 +2354,15 @@
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
                     else {
                         var link = "(Updated link coming soon)";
-                        API.sendChat(subChat(basicBot.chat.starterhelp, {link: link}));
+                        //API.sendChat(subChat(basicBot.chat.starterhelp, {link: link}));
+						API.sendChat("\/me »AN» ArkhamBot main commands");
+						API.sendChat("\/me ------------------");
+						API.sendChat("\/me * !eta - View how long until you reach the booth!"); 
+						API.sendChat("\/me * !ask <question> - Ask the Magic 8 ball a question!"); 
+						API.sendChat("\/me * !gif <tag> <Currently broken> - Get a gif with a specified tag!"); 
+						API.sendChat("\/me * !link - Gets the YouTube link to the current song!"); 
+						API.sendChat("\/me * !dc - Lets you join your former position on the waitlist if you recently disconnected!"); 
+						API.sendChat("\/me ------------------");
                     }
                 }
             },
