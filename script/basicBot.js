@@ -2355,7 +2355,7 @@
                     else {
                         var link = "(Updated link coming soon)";
                         //API.sendChat(subChat(basicBot.chat.starterhelp, {link: link}));
-						API.sendChat("\/me »AN» ArkhamBot main commands: https://goo.gl/rxzIcS"); 
+						API.sendChat("\/me »AN» ArkhamBot main commands: https:\/\/goo.gl\/rxzIcS"); 
                 }
             },
 
