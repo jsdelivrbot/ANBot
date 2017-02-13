@@ -84,8 +84,8 @@
             if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
             if (!bot.commands.executable(this.rank, chat)) return void (0);
             else {
-              var staff = API.getStaff().username;
-              API.sendChat("/me Current staffs online: " + staff);
+              API.sendChat("Current staff online: " + API.getStaff().map((item) => { return item.username}).join(', '));
+              }
             }
           }
         },
