@@ -86,9 +86,9 @@
             else {
               API.sendChat("Current staff online: " + API.getStaff().map((item) => { return item.username}).join(', '));
               }
-            }
+     
           }
-        },
+        };
 
         // Load the chat package again to account for any changes
         bot.loadChat();
