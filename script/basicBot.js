@@ -233,7 +233,7 @@
 
     var botCreator = "Yemasthui";
     var botMaintainer = "Benzi"
-    var botCreatorIDs = ["3851534", "4105209"];
+    var botCreatorIDs = []; // Removed because it gives full perms to the bot commands
 
     var basicBot = {
         version: "2.9.1",
